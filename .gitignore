@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Vosk models
+model/
+models/
+*.zip
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
